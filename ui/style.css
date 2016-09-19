@@ -11,7 +11,10 @@ body {
 .text-big {
     font-size: 300%;
 }
-
+.li
+{
+    position: center;
+}
 .bold {
     font-weight: bold;
 }
